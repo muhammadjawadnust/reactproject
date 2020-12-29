@@ -26,23 +26,29 @@ var app = express();
 require('./config/passport')(passport);
 
 //DB Config
-// const db = require('./config/keys').mongoURI;
+const db = require('./config/keys').mongoURI;
 
-// //Connect to MongoDB
-// mongoose
-//   .connect(
-//     db,
-//     { useNewUrlParser: true, useUnifiedTopology: true }
-//   )
-//   .then(() => console.log('MongoDB Connected'))
-//   .catch(err => console.log(err));
+//Connect to MongoDB
+mongoose
+  .connect(
+    db,
+    { useNewUrlParser: true, useUnifiedTopology: true }
+  )
+  .then(() => console.log('MongoDB Connected'))
+  .catch(err => console.log(err));
 
 
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-// app.set('view engine', 'jade');
+app.set('view engine', 'jade');
 
+
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
 app.use(logger('dev'));
 app.use(express.json());
 app.use(cors());
@@ -138,7 +144,7 @@ app.listen('5000', (err) => {
 // app.get('/login',function(req,res){
 //   console.log("main route requested");
 //   res.json({
-    message:"Taiba is the best junior I have ever had!!! "
+//     message:"Taiba is the best junior I have ever had!!! "
 //   })
 //   //let view = __dirname+
 //   //res.send(__dirname+);

@@ -1,0 +1,203 @@
+body{
+  background-color: #1e1e1e;
+  margin: auto;
+}
+.bgImagecompiler{
+    background-image: url("../Images/compiler.jpg");
+}
+#vapcompiler{
+    color: #F89E12;
+    margin-top: 16px;
+    margin-left: 50%;
+}
+#vap1compiler{
+  color: #F89E12;
+    margin-top: 16px;
+    margin-left: 48%;
+}
+.navitemss1{
+    margin-left: -10%;
+    /* margin-right: 80%; */
+    font-size: 14px;
+    color: white;
+    
+}
+.toggleBar{
+  background-color: #3d3d3d;
+  height: 10px;
+}
+.mr-auto{
+    padding-left: 8%;
+    margin-top: 5px;
+}
+#navHeadcompiler{
+  font-size:medium;
+  color: white;
+  font-weight: bold;
+
+}
+.columncompiler {
+    float: left;
+    /* width: 30%; */
+    /* padding-left: 10px; */
+    height: 400px;
+    border: 1px solid black; 
+  }
+  
+  /* Clear floats after the columns */
+  .rowcompiler:after {
+    content: "";
+    display: table;
+    clear: both;
+   
+  }
+  .sectioncompiler{
+    background-color: #1e1e1e;
+}
+.Indexcompiler{
+    text-decoration: none;
+    color:white;
+    pointer-events: none;
+    float: left;
+    padding-left: 6px;
+}
+#tabscompiler{
+    background-color:#3d3d3d ;
+    height: 38px;
+    /* align-items: right; */
+    /* padding-left: 10px; */
+    /* padding-top: 0px; */
+    border: 1px solid black;
+  }
+  /* .a1{
+    background-color: #1e1e1e;
+    align-items: right;  
+    font-size: small;
+    padding: 3px;
+    margin-left: 15%;
+    margin-top: 15px;
+
+  } */
+  .dDowncompiler{
+    margin-top: 5px;
+    margin-left: 60%;
+
+  }
+  #dDmenucompiler{
+    height: 64%;
+  }
+  select {
+    background-color: #1e1e1e;
+    color:white
+  }
+  .portcompiler{
+      color:white;
+      
+  }
+  p{
+    background-color: #1e1e1e;
+    padding: 2px;
+    margin-top: 4px;
+  }
+  .portAcompiler{
+      resize: none;
+      color:white;
+      height:20px;
+      width:45px;
+      text-align: center;
+      margin-top: 4px;
+      background-color: #1e1e1e;
+
+  }
+  .symbolscompiler{
+    margin-top: 15px; 
+    display: flex;
+    margin-right: 515%;   
+  }
+  #iconsscompiler{
+    color: #f89e12;
+    font-size: small;
+    padding-bottom: 10%;
+    margin-top: -10px;
+
+  }
+  .Tbtn{
+    /* padding: 10px; */
+  }
+
+  
+  .Ulistcompiler{
+    font-size: 10px;
+    color: #FFFFFF;
+    list-style-type: none;  
+    padding: 10px;
+  }
+  /* .div3{
+      border: 1px solid black;
+  } */
+  .divAutocompiler{
+      border:1px solid black;
+      height:6%
+}
+#autoScrollcompiler{
+  margin-top: -5px;
+  font-size: 11px;
+  color:white; 
+}
+  .optionscompiler{
+    margin-top: -2px;
+    margin-left: 2%;
+    height:230%;
+  }
+  .option1compiler{
+    margin-top: 5px;
+    margin-left: 1%;
+    height:230%;
+   
+  }
+  #btnClearcompiler{
+    background-color: #F89E12;
+    border-radius: 10px;
+    font-size: 8.4px;
+    width: 14%;
+    /* height:20px; */
+    color: #070606;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    font-weight: bold;
+    margin-top:5px;
+    height:20px;
+    width:62px
+  }
+  #liveViewcompiler{
+    font-size: 12px;
+  }
+  #Imageecompiler{
+      height: 150px;
+      width: 100%;
+      margin-top: -1.5%;
+  }
+  .footerBcompiler{
+    /* background-color: #1e1e1e; */
+    padding: 5px;
+    color:white;
+  }
+  #outputtcompiler{
+    color:'white';
+    margin-left: -15px;
+    margin-top: -4px;
+  }
+ .footercompiler{
+   width:100%;
+   /* margin-top:5%; */
+  background-color: #1e1e1e;
+
+ }
+ .footerAcompiler{
+    border: 1px solid grey;
+    color: white;
+    padding: 6px;
+ }
+.twoMainscompiler{
+  background-color: #1e1e1e;
+}

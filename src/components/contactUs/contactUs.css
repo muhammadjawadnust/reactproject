@@ -1,0 +1,228 @@
+#bgImagecontact{
+  /*  */
+  height: 585.5px;
+  width: 100%;
+}
+.top-leftcontact {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left1contact {
+    position: absolute;
+    top: 27px;
+    left:48%;
+    font-size: 34px;
+    color: white;
+    font-family: "Myriad pro Semibold";
+  } 
+  .top-left2contact {
+    position: absolute;
+    top: 27px;
+    left: 54%;
+    font-size: 14px;
+    color: white;
+    font-family: "Myriad pro Semibold";
+  } 
+  .top-left3contact {
+    position: absolute;
+    top: 27px;
+    left: 60%;
+    font-size: 14px;
+    color: white;
+    font-family: "Myriad pro Semibold";
+  } 
+  .top-left4contact {
+    position: absolute;
+    top: 27px;
+    left:66%;
+    font-size: 14px;
+    color: #F89E12;
+    font-family: "Myriad pro Semibold";
+  } 
+  .top-left5contact {
+    position: absolute;
+    top: 27px;
+    left: 72%;
+    font-size: 14px;
+    color: white;
+    font-family: "Myriad pro Semibold";
+  } 
+  .top-left6contact {
+    position: absolute;
+    top: 20px;
+    left: 16%;
+    font-size: 14px;
+    color: white;
+    font-family: "Myriad pro Semibold";
+  } 
+  #btncontact{
+    background-color: #F89E12;
+    border-radius: 10px;
+    border: 1px solid #F89E12;
+    height: 20px;
+    font-size: 14px;
+    margin-left: 62%;
+    margin-top: 7px;
+    color:black;
+    font-family: bolder;
+}
+.Row {
+    display: table;
+    width: 55%; 
+    /* height: 55%; */
+    table-layout: fixed; 
+    border-spacing: 25px;
+}
+.top-centercontact {
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    top: 8%;
+    text-align: center;
+    left: 38%;
+    font-family: sans-serif
+  }
+
+  h2{
+      letter-spacing: 3px;
+      font-size: 44px;
+      color: white;
+  }
+  .messagecontact{
+      color:white;
+      font-size: 14px;
+      font-weight: lighter;
+  }
+  #containercontact{
+    width: 80%;
+    left: 18%;
+    position: absolute;
+    top: 27%;
+  }
+.Row1contact {
+    display: table;
+    width: 55%; 
+    /* height: 55%; */
+    table-layout: fixed; 
+}
+.Columncontact {
+    display: table-cell;
+    column-gap: 40%;
+    padding-top: 11px;
+    /* padding: 5px; */
+    /* height: 65%; */
+    text-align: center;
+    border-radius: 35px;
+}
+input:focus{
+  outline: none !important;
+  
+}
+label {
+  color:black;  
+  font-weight: lighter;
+  font-size: larger;
+}
+#areaTextcontact{
+  width: 95%;
+  height: 80px;
+  background-color: #efefef;
+}
+.verticalcontact { 
+  border-left: 2px solid #feb33e; 
+  height: 95px; 
+  position:absolute; 
+  left: 2%; 
+  top:55%;
+}   
+#btnSubmitcontact{
+  background-color: #F89E12;
+  color:black;
+  border:none;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+  font-size: 12px;
+}
+.vertical1contact { 
+  border-left: 2px solid #feb33e; 
+  height: 95px; 
+  position:absolute; 
+  left: 82%; 
+  top:5%;
+} 
+.iconsscontact{
+  /* left:50px; */
+  margin-left: 20%;
+  margin:20%;
+  font-size: 14px;
+
+}
+
+#mailBoxcontact{
+  padding: 2px;
+  color: '#F89E12';
+  font-size: 20px; 
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+#phoneCallcontact{
+  color: #F89E12;
+  font-size: 20px;
+  padding: 2px;
+  border: 1px solid grey; 
+  border-radius: 5px 
+
+}
+#phoneCallcontact{
+  color: #F89E12;
+  font-size: 20px;
+  padding: 2px;
+  border: 1px solid grey; 
+  border-radius: 5px 
+}
+#mapLocationcontact{
+  color: #F89E12;
+  font-size: 20px;
+  padding: 2px;
+  border: 1px solid grey; 
+  border-radius: 5px 
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .columnC1contact {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  .columnC2contact {
+    float: left;
+    width:35%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .rowCcontact:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #middleFooterpartcontact{
+    color: white;
+    font-size: '12px';
+    padding-left: 15%;
+  }
+  #startFooterpartcontact{
+    color: white;
+    font-size: 15px
+  }

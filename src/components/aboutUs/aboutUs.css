@@ -1,0 +1,225 @@
+#bgImageaboutus{
+  height: 585.5px;
+  width: 100%;
+}
+
+.top-leftaboutus {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+ }
+ .top-left1aboutus {
+  position: absolute;
+  left: 48%;
+  font-size: 14px;
+  top: 27px; 
+  color: white;
+  font-family: sans-serif;
+}
+.top-left2aboutus {
+  position: absolute;
+  left: 54%;
+  font-size: 14px;
+  top: 27px; 
+  color: white;
+  font-family: sans-serif;
+}
+.top-left3aboutus {
+  position: absolute;
+  left: 60%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif;
+}
+.top-left4aboutus {
+  position: absolute;
+  left: 66%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif;
+}
+.top-left5aboutus {
+  position: absolute;
+  left: 72%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif;
+}
+.top-left6aboutus {
+  position: absolute;
+  top: 18px;
+  left: 16%;
+  font-size: 24px;
+  color: white;
+  font-family: sans-serif
+}
+
+#btnlogoutaboutus{
+    left: 78%;
+    padding: 2px;
+    width:65px;
+    font-size:14px;
+    top:22px;
+    border-radius: 15px;
+    color: black;
+    background-color: #F89E12;
+}
+#hr1aboutus{
+  color: white;
+  background-color: white;
+  height: 1px;
+  top: 85%;
+}
+#hr2aboutus{
+  color: white;
+  background-color: white;
+  height: 1px;
+  top: '45px'
+}
+.Row1aboutus {
+    display: table;
+    width: 55%; 
+    /* height: 55%; */
+    table-layout: fixed; 
+}
+.Columnaboutus {
+    display: table-cell;
+    column-gap: 40%;
+    padding-top: 11px;
+    /* padding: 5px; */
+    /* height: 65%; */
+    text-align: center;
+    border-radius: 35px;
+}
+.top-centeraboutus {
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    top: 45px;
+    left: 36%;
+    font-size: 50.99px;
+    color: #feb33e;
+    font-family: sans-serif
+  }
+  #exampleaboutus {
+    position: absolute;
+    top: 15%;
+    left: 38%; 
+    padding: 5px;
+    background-color: white;
+    width: 24%;
+    height: 70%;
+ 
+ }
+ /* .container{
+    background-color: white;
+    position: absolute;
+} */
+#section1aboutus{
+  margin-top: -29%;
+  width: 70%;
+  margin-left: 18%;
+  position:absolute;
+}
+section
+* {
+    box-sizing: border-box;
+  }
+  .vertical1aboutus { 
+    border-left: 1px solid #feb33e; 
+    height: 70px; 
+    position:absolute; 
+    left: 87%; 
+    top:32%;
+  }   
+#aboutUsaboutus{
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+.vertical2aboutus { 
+  border-left: 1px solid #feb33e; 
+  height: 70px; 
+  position:absolute; 
+  left: 53%; 
+} 
+  /* Create two equal columns that floats next to each other */
+  .columnaboutus {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 230px; 
+   
+}
+  /* Clear floats after the columns */
+  .rowaboutus:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column1aboutus {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 100px; 
+    
+  }
+
+  .row1aboutus:after {
+    content: "";
+    display: table;
+    clear: both;
+    justify-content: space-between;
+  }
+  h2{
+    color:white;
+  }
+  
+.column2aboutus {
+  float: left;
+  width: 23.33%;
+  /* padding: -5px; */
+  margin-left: -15px;
+  margin-top: -100px; 
+  /* margin-right: -50px; */
+}
+
+/* Clearfix (clear floats) */
+.row2aboutus::after {
+  content: "";
+  clear: both;
+  display: table;
+ }
+ /*
+.csstransforms aside {
+  border-left: 34px solid #369;
+  padding-left: 10px;
+}
+.csstransforms aside h5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: none;
+  transform-origin: 0 0;
+  transform: rotate(90deg);
+} */
+
+#startFooterpartaboutus{
+  color: white;
+  font-size: 15px;
+}
+#middleFooterpartaboutus{
+  color: white;
+  font-size: 12px;
+  padding-left: 15%;
+
+}
+.footeraboutus{
+  
+}

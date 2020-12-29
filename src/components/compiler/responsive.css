@@ -1,0 +1,1088 @@
+@media only screen and (min-width: 375px) 
+{ 
+  body{
+    background-color: #1e1e1e !important;
+  }
+  #navHeadcompiler{
+    font-size:35px !important;
+    color: white;
+    font-weight: bold;
+    margin-top: -1px !important;
+    /* margin-left: -35% !important; */
+  }
+  #vapcompiler{
+    font-size: xx-large !important;
+    margin-top: -4% !important;
+    margin-left: 23% !important;
+  }
+  /* .navPt2{
+    height:20% !important;
+  } */
+  #tabscompiler{
+    background-color:#3d3d3d ;
+    height: 80px !important;
+    border: 1px solid black;
+  }
+.Indexcompiler{
+    font-size:xx-large !important;
+    padding-left: 12% !important;
+}
+#closedd{
+  padding-left: 55% !important;
+  margin-top: -5% !important;
+
+}
+  #divAutocompiler{
+    height: 10% !important;
+    width: 104%; 
+  }
+  #column1{
+    width: 70%;
+    border: 1px solid black;
+    height:1000px !important ;
+  }
+  #column2{
+    width:29%;
+    border: 1px solid black;
+    height:1000px !important ;
+
+  }
+  .symbolscompiler{
+    margin-left:76% !important;
+    margin-top:-10% !important;
+    font-size: xx-large !important;
+}
+  .dDowncompiler{
+    margin-top: 8px !important;
+    margin-left: 2% !important;
+}
+#dDmenucompiler{
+    height: 55% !important;
+    margin-left: 20% !important;
+    font-size: x-large !important;
+}
+#boardOptionscompiler{
+   font-size:8px;
+}
+.portAcompiler{
+    resize: none;
+    color:white;
+    padding: 2px !important;
+    height:50% !important;
+    width:40% !important;
+    font-size: xx-large !important;
+    text-align: center;
+    margin-top: 8px !important;
+    background-color: #1e1e1e;
+    margin-left: 20% !important;
+}
+  .mr-autocompiler{
+    padding-left: 8%;
+    margin-top: 5px;
+}
+.div3compiler{
+  height:60% !important;
+}
+.Incompiler{
+  width: 70% !important;
+  height: 80px !important;
+  margin-left: 3% !important;
+  margin-top: 1% !important;
+}
+input,
+input::-webkit-input-placeholder {
+    font-size: 20px !important;
+    line-height: 3 !important;
+}
+#btncompiler{
+  background-color: #F89E12;
+  border-radius: 20px;
+  font-size: 30px !important;
+  width: 18% !important;
+  padding: 2px;
+  margin-top:-11px !important;
+  color: #070606;
+  margin-left: 4%;
+  font-weight: bolder !important;
+
+}
+.Ulistcompiler{
+  font-size: 430% !important;
+  color: #FFFFFF;
+  list-style-type: none;  
+  padding: 4% !important;
+}
+
+.divAutocompiler{
+  border:1px solid black ;
+  height:156px !important;
+}
+.optionscompiler{
+  margin-top: 20px !important;
+  margin-left:1% !important;
+  height: 80% !important;
+  width: 22% !important;
+  font-size: 30px !important;
+}
+.option1compiler{
+  
+  margin-top: -60px !important;
+  margin-left: 62% !important;
+  height: 80% !important;
+  width: 19% !important;
+  font-size: 30px !important;
+}
+#btnClearcompiler{
+  background-color: #F89E12;
+  border-radius: 8px;
+  font-size: 200% !important;
+  width: 13%  !important;
+  padding: 1px;
+  color: #070606;
+  margin-left: 82%;
+  font-weight: bolder;
+  margin-top:-55px !important;
+  height:70% !important;
+
+}
+.livePart{
+  margin-top: 55% !important;
+  border:1px solid black !important ;
+
+}
+#autoScrollcompiler{
+  font-size: 400% !important;
+  color:white;
+  margin-top:6px;
+  padding-left: 1px !important;
+}
+/* #greenCirclecompiler{
+  font-size: xx-large !important;
+} */
+#liveViewcompiler{
+  padding: 3px !important;
+  padding-left: 3% !important;
+  height:400% !important;
+  border:1px solid black !important ;
+  color:white;
+  font-size: 450% !important;
+  margin-top:5px !important;
+}
+#Imageecompiler{
+  height: 680px !important;
+  width: 100%;
+  margin-top: -0.5% !important;
+  
+}
+.footerBcompiler{
+  padding: 5px;
+  color:white;
+  height:400px !important;
+  font-size:  425% !important;
+}
+#outputtcompiler{
+  color:'white';
+}
+.footercompiler{
+  width:100%;
+  height:1500% !important;
+  margin-top:46% !important;
+  background-color: #1e1e1e;
+  }
+.footerAcompiler{
+  border: 1px solid grey;
+  color: white;
+  padding: 7px !important;
+  font-size: 550% !important;
+}
+.twoMainscompiler{
+  background-color: #1e1e1e;
+}
+
+}  
+      
+ @media (min-width:500px ) and  (max-width:575){
+      body{
+        background-color: #1e1e1e;
+      }
+    .bgImagecompiler{
+      width:100%;
+    }
+    #column1{
+      width: 100%;
+      /* //border: 1px solid black; */
+    }
+    #column2{
+      width:100%;
+      border: 1px solid black;
+    }
+    .symbolscompiler{
+      margin-left:410px;
+      margin-top: -25px;
+    }
+    .dDowncompiler{
+      margin-top: 7px;
+      margin-left: 24%;
+    }
+    #boardOptions{
+      /* font-size: 5px; */
+    }
+    #dDmenucompiler{
+      height: 64%;
+    }
+    .portAcompiler{
+        resize: none;
+        color:white;
+        height:18px;
+        width:45px;
+        text-align: center;
+        margin-top: 7px;
+        background-color: #1e1e1e;
+  
+    }
+      .mr-autocompiler{
+        padding-left: 8%;
+        margin-top: 5px;
+    }
+    .Incompiler{
+      width: 60%;
+      height: 20%;
+      /* margin-left: 2%; */
+    }
+    #btncompiler{
+      background-color: #F89E12;
+      border-radius: 20px;
+      font-size: 8.4px;
+      width: 20%;
+      padding: 2px;
+      margin-top:-2px;
+      /* height:20px; */
+      color: #070606;
+      margin-left: 4%;
+  
+    }
+    
+  #autoScrollcompiler{
+    font-size: 23px;
+    color:white;
+    margin-top:-1px;
+    padding-left: 5px;
+  }
+    .optionscompiler{
+      margin-top: -1px;
+      margin-left: 20%;
+      height: 100%;
+      width: 80px;
+      font-size: 7px;
+    }
+    .option1compiler{
+      margin-top: -30px;
+      margin-left: 64%;
+      height: 100%;
+      width: 80px;
+      font-size: 7px;
+    }
+    .Ulistcompiler{
+      font-size: 430% !important;
+      color: #FFFFFF;
+      list-style-type: none;  
+      padding: 4% !important;
+    }
+    #btnClearcompiler{
+      background-color: #F89E12;
+      border-radius: 8px;
+      font-size: 6px;
+      width: 10%;
+      padding: 1px;
+      /* height:20px; */
+      color: #070606;
+      margin-left: 80%;
+      font-weight: bolder;
+      margin-top:-29px;
+      height:20px;
+    
+    }
+
+    #liveViewcompiler{
+      padding: 6px;
+      padding-left: 15px;
+      height:30px;
+      border:1px solid black ;
+      color:white;
+      font-size: 12px;
+  
+    }
+    #Imageecompiler{
+      height: 150px;
+      width: 100%;
+      margin-top: -2%;
+    }
+    #divAutocompiler{
+      padding:10px;
+      height:40px;
+      /* border: 1px solid black !; */
+    }
+    .footerBcompiler{
+      /* background-color: #1e1e1e; */
+      padding: 5px;
+      color:white;
+      font-size: 25px;
+    }
+    #outputtcompiler{
+      color:'white';
+      margin-left: -15px;
+      margin-top: -4px;
+    }
+    .footercompiler{
+    width:100%;
+    margin-top:0.5%;
+    background-color: #1e1e1e;
+  
+    }
+    .footerAcompiler{
+      border: 1px solid grey;
+      color: white;
+      padding: 3px;
+      font-size: 15px;
+    }
+    .twoMainscompiler{
+      background-color: #1e1e1e;
+    }
+  
+  
+  
+  
+  
+ }
+
+
+
+
+    /* // Small devices (landscape phones, 576px and up) */
+
+
+  @media (min-width:576px ) and (max-width:767px){
+    /* .nav-tabs>li{
+      margin-bottom: -1px;
+      margin-left: 2%;
+
+    } */
+    body{
+      background-color: #1e1e1e;
+    }
+    .bgImagecompiler {
+      width:100%;
+    }
+    #column1{
+      width: 100%;
+      /* //border: 1px solid black; */
+    }
+    #column2{
+      width:100%;
+      border: 1px solid black;
+    }
+    .symbolscompiler{
+      margin-left:330px;
+      margin-top: -25px;
+  }
+    .dDowncompiler{
+      margin-top: 7px;
+      margin-left: 12%;
+  }
+  #dDmenucompiler{
+      height: 64%;
+  }
+  .portAcompiler{
+      resize: none;
+      color:white;
+      height:18px;
+      width:45px;
+      text-align: center;
+      margin-top: 7px;
+      background-color: #1e1e1e;
+
+  }
+    .mr-autocompiler{
+      padding-left: 8%;
+      margin-top: 5px;
+  }
+  .Incompiler{
+    width: 60%;
+    height: 20%;
+    /* margin-left: 2%; */
+  }
+  #btncompiler{
+    background-color: #F89E12;
+    border-radius: 20px;
+    font-size: 8.4px;
+    width: 20%;
+    padding: 2px;
+    margin-top:-2px;
+    /* height:20px; */
+    color: #070606;
+    margin-left: 4%;
+    /* margin-bottom: 1%;
+    font-weight: bold; */
+
+  }
+  .optionscompiler{
+    margin-top: -27px;
+    margin-left: 55%;
+    height: 60%;
+    width: 30px;
+    font-size: 7px;
+  }
+  .option1compiler{
+    margin-top: -27px;
+    margin-left: 74%;
+    height: 60%;
+    width: 30px;
+    font-size: 7px;
+  }
+  #btnClearcompiler{
+    background-color: #F89E12;
+    border-radius: 8px;
+    font-size: 4px;
+    width: 14%;
+    padding: 1px;
+    /* height:20px; */
+    color: #070606;
+    margin-left: 90%;
+    /* margin-bottom: 1%; */
+    font-weight: bolder;
+    margin-top:-23px;
+    height:12px;
+  
+  }
+  /* #Imagee{
+    height: 160px;
+    width: 100%;
+    margin-top: -6.5%;
+  } */
+
+  #liveViewcompiler{
+    padding: 6px;
+    padding-left: 15px;
+    height:30px;
+    border:1px solid black ;
+    color:white;
+    font-size: 12px;
+
+  }
+  #Imageecompiler{
+    height: 150px;
+    width: 100%;
+    margin-top: -2%;
+  }
+  #divAutocompiler{
+    padding:10px;
+    height:40px;
+  }
+  .footerBcompiler{
+    /* background-color: #1e1e1e; */
+    padding: 5px;
+    color:white;
+    font-size: 25px;
+  }
+  #outputtcompiler{
+    color:'white';
+    margin-left: -15px;
+    margin-top: -4px;
+  }
+  .footercompiler{
+  width:100%;
+  margin-top:0.5%;
+  background-color: #1e1e1e;
+
+  }
+  .footerAcompiler{
+    border: 1px solid grey;
+    color: white;
+    padding: 3px;
+    font-size: 15px;
+  }
+  .twoMainscompiler{
+    background-color: #1e1e1e;
+  }
+
+
+
+
+
+
+
+  }
+
+
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) and (max-width:991px) { 
+      body{
+      background-color:#1e1e1e;
+    }
+    .bgImagecompiler{
+      width:100%;
+    }
+    #column1{
+      width: 100%;
+    }
+    #column2{
+      width:100%;
+      border: 1px solid black;
+    }
+    #navHeadcompiler{
+      font-size:x-large !important;
+      font-weight: bold;
+    }
+    .Indexcompiler{
+      font-size: large !important;
+      padding-left: 15%;
+  }
+    .symbolscompiler{
+      margin-left:810px !important;
+      margin-top: -57px !important;
+      font-size: large !important;
+  }
+    .dDowncompiler{
+      margin-top: 3px;
+      margin-left: 35% !important;
+  }
+  #dDmenucompiler{
+      height: 55% !important;
+      width: 110% !important;
+      font-size: 15px !important;
+  }
+  .portAcompiler{
+      resize: none;
+      color:white;
+      /* height:18px; */
+      height: 60%;
+      margin-left: 45px !important;
+      font-size:large !important;
+      width:50px;
+      text-align: center;
+      margin-top: 2px;
+      background-color: #1e1e1e;
+
+  }
+    .mr-autocompiler{
+      padding-left: 8%;
+      margin-top: 5px;
+  }
+  .Incompiler{
+    width: 60% !important;
+    height: 45% !important;
+    /* margin-left: 2%; */
+  }
+  #btncompiler{
+    background-color: #F89E12;
+    border-radius: 20px;
+    font-size: 18px !important;
+    width: 10% !important;
+    padding: 2px;
+    margin-top:-2px;
+    /* height:20px; */
+    color: #070606;
+    margin-left: 4%;
+    /* margin-bottom: 1%;*/
+    font-weight: bold; 
+
+  }
+  .Ulistcompiler{
+    font-size: 34px !important;
+    color: #FFFFFF;
+    list-style-type: none;  
+    padding: 10px;
+    padding-top: 75px !important;
+  }
+  #autoScrollcompiler{
+    font-size: 25px !important;
+    color:white;
+    /* margin-top:5px; */
+  }
+#o1{
+  font-size: 10px;
+}
+#o2{
+  font-size: 8px;
+}
+#o3{
+  font-size: 8px;
+}
+#o4{
+  font-size: 8px;
+}
+#o5{
+  font-size: 8px;
+}
+#o6{
+  font-size: 10px;
+}
+#o7{
+  font-size: 8px;
+}
+#o8{
+  font-size: 8px;
+}
+#o9{
+  font-size: 8px;
+}
+#o10{
+  font-size: 8px;
+}
+
+  .optionscompiler{
+    margin-top: 9px !important;
+    margin-left: 33% !important;
+    height: 34px !important;
+    width: 125px !important;
+    font-size: 15px !important;
+  }
+  .option1compiler{
+    margin-top: -46px !important;
+    margin-left: 72% !important;
+    height: 34px !important;
+    width: 100px !important;
+    font-size: 15px !important;
+  }
+  #btnClearcompiler{
+    background-color: #F89E12;
+    border-radius: 8px;
+    font-size: 10px !important;
+    width: 8% !important;
+    padding: 2px;
+    height:31px !important;
+    color: #070606;
+    margin-left: 85%;
+    /* margin-bottom: 1%; */
+    font-weight: bold;
+    margin-top:-45px !important;
+    margin-left:30px;
+
+
+  }
+  #autroScrollcompiler{
+    /* font-size: 88%; */
+  }
+  #liveViewcompiler{
+    padding: 3px;
+    height:30px;
+    border:1px solid black ;
+    color:white;
+    font-size: 25px !important;
+
+  }
+  #Imageecompiler{
+    height: 200px;
+    width: 100%;
+    margin-top: -1%;
+  }
+  #divAutocompiler{
+    padding:10px;
+    height:90px !important;
+  }
+  .footerBcompiler{
+    /* background-color: #1e1e1e; */
+    padding: 5px;
+    color:white;
+    font-size: 25px;
+  }
+  #outputtcompiler{
+    color:'white';
+    margin-left: -15px;
+    margin-top: -4px;
+  }
+  .footercompiler{
+    width:100%;
+    margin-top:40% !important;
+    background-color: #1e1e1e;
+  }
+  .footerAcompiler{
+    border: 1px solid grey;
+    color: white;
+    padding: 4px;
+    font-size: 25px;
+  }
+  .twoMainscompiler{
+    background-color: #1e1e1e;
+  }
+
+
+
+
+
+  }
+
+
+
+
+  /*  Large devices (desktops, 992px and up)*/
+  @media  (min-width: 992px) and (max-width: 1199px){
+    #navHeadcompiler{
+      font-size:20px !important;
+      color: white;
+      font-weight: bold;
+      margin-top: 5px !important;
+      /* margin-left: -35% !important; */
+    }
+    #vapcompiler{
+      font-size: x-large !important;
+      margin-top: -4% !important;
+      margin-left: 23% !important;
+    }
+    #divAutocompiler{
+      height: 7%;
+      width: 104%; 
+    }
+    #column1{
+      width: 70%;
+      height: 500px !important;
+      border: 1px solid black;
+    }
+    #column2{
+      width:30%;
+      height: 500px !important;
+      border: 1px solid black;
+    }
+    .Indexcompiler{
+      font-size:large !important;
+      padding-left: 12% !important;
+  }
+  #tabscompiler{
+    background-color:#3d3d3d ;
+    height: 50px !important;
+    border: 1px solid black;
+  }
+.symbolscompiler{
+      margin-left:82% !important;
+      margin-top: -7% !important;
+      font-size: medium !important;
+  }
+.dDowncompiler{
+      margin-top: 7px;
+      margin-left: 30% !important;
+  }
+  #dDmenucompiler{
+      height: 40% !important;
+      margin-left: 10% !important;
+      font-size: small !important;
+
+  }
+  .portAcompiler{
+      resize: none;
+      color:white;
+      height:35% !important;
+      width:55px !important;
+      font-size: small !important;
+      text-align: center;
+      margin-top: 7px;
+      background-color: #1e1e1e;
+      margin-left: 20%;
+  }
+    .mr-autocompiler{
+      padding-left: 8%;
+      margin-top: 5px;
+  }
+  .div3compiler{
+    height:40% !important;
+  }
+  .Incompiler{
+    width: 60% !important;
+    height: 32px !important;
+    /* margin-left: 2%; */
+  }
+  #btncompiler{
+    background-color: #F89E12;
+    border-radius: 20px;
+    font-size: small !important;
+    width: 20% !important;
+    padding: 2px;
+    margin-top:-2px;
+    /* height:20px; */
+    color: #070606;
+    margin-left: 4%;
+    /* margin-bottom: 1%; */
+    font-weight: bold;
+}
+.Ulistcompiler{
+  font-size: small !important;
+  color: #FFFFFF;
+  list-style-type: none;  
+  padding: 4% !important;
+}
+#divAutocompiler{
+  height: 7% !important;
+  /* width: 104%;  */
+}
+  #autoScrollcompiler{
+    font-size: 12px !important;
+    color:white;
+    margin-top:5px;
+    padding-left: 5px;
+  }
+  .optionscompiler{
+    margin-top: -32px !important;
+    margin-left:34% !important;
+    height: 50% !important;
+    width: 27% !important;
+    font-size: 10px !important;
+  }
+  .option1compiler{
+    margin-top: -32px !important;
+    margin-left: 63% !important;
+    height: 50% !important;
+    width: 62px !important;
+    font-size: 10px !important;
+  }
+  #btnClearcompiler{
+    background-color: #F89E12;
+    border-radius: 8px;
+    font-size: 8px !important;
+    width: 15% !important;
+    padding: 1px;
+    /* height:20px; */
+    color: #070606;
+    margin-left: 82%;
+    /* margin-bottom: 1%; */
+    font-weight: bolder !important;
+    margin-top:-32px !important;
+    height:51% !important;
+  
+  }
+  #liveViewcompiler{
+    padding: 4px !important;
+    padding-left: 10px;
+    height:30px;
+    border:1px solid black ;
+    color:white;
+    font-size: 15px !important;
+
+  }
+  #Imageecompiler{
+    height: 223px !important;
+    width: 100%;
+    margin-top: -3% !important;
+    
+  }
+
+  .footerBcompiler{
+    /* background-color: #1e1e1e; */
+    padding: 5px;
+    color:white;
+    font-size: x-large !important;
+  }
+  #outputtcompiler{
+    color:'white';
+    /* margin-left: -15px;
+    margin-top: -4px; */
+  }
+  .footercompiler{
+  width:100% !important;
+  margin-top:0% !important;
+  background-color: #1e1e1e;
+
+  }
+  .footerAcompiler{
+    border: 1px solid grey;
+    color: white;
+    padding: 2px;
+    font-size: 21px !important;
+  }
+  .twoMainscompiler{
+  background-color: #1e1e1e;
+  }
+
+  }
+  
+  /* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) { 
+
+.nav-tabs>li{
+      float: left;
+      margin-bottom: -1px;
+      margin-right: -4%;
+
+ } 
+body{
+     background-color: #1e1e1e;
+    }
+#navHeadcompiler{
+     font-size:medium !important;
+     color: white;
+     font-weight: bold;
+     top: 2% !important;
+}
+/* #vap{
+  font-size: x-large !important;
+  margin-top: -12% !important;
+} */
+#column1{
+      width: 70%;
+      height: 400px !important;
+      border: 1px solid black;
+    }
+#column2{
+      width:29%;
+      height: 400px !important;
+      border: 1px solid black;
+    }
+.Indexcompiler{
+      font-size:small !important;
+      padding-left: 12% !important;
+}
+.symbolscompiler{
+     margin-left:88% !important; 
+     margin-top: -52px !important; 
+     /* margin-right: 2%; */
+     font-size: small !important;
+  }
+.dDowncompiler{
+      margin-top: 7px;
+      margin-left: 58% !important; 
+  }
+#dDmenucompiler{
+    height: 40% !important ;
+    font-size:x-small !important;
+    margin-left: -32% !important;
+  }
+.portAcompiler{
+      resize: none;
+      color:white;
+      /* height:18px; */
+      height: 35% !important;
+      /* width:45px; */
+      width: 60px !important;
+      font-size: 12px !important;
+      text-align: center;
+      padding-top: -1px !important;
+      margin-top: 8px !important;
+      margin-left: 18% !important;
+      background-color: #1e1e1e;
+
+  }
+#tabscompiler{
+    background-color:#3d3d3d ;
+    height: 38px !important;
+    border: 1px solid black;
+}
+#closedd{
+  padding-left: 55% !important;
+  margin-top: -15% !important;
+
+}
+.mr-autocompiler{
+  padding-left: 8%;
+  margin-top: 5px;
+}
+.div3compiler{
+  height:40% !important;
+}
+.Incompiler{
+    width: 60% !important;
+    height: 20% !important;
+  }
+#btncompiler{
+    background-color: #F89E12;
+    border-radius: 20px;
+    font-size: 8.4px !important;
+    width: 20% !important;
+    padding: 2px;
+    margin-top:-2px;
+    color: #070606;
+    margin-left: 4%;
+    font-weight: bold !important;
+}
+.Ulistcompiler{
+    font-size: 115% !important;
+    color: #FFFFFF;
+    list-style-type: none;  
+    padding: 4% !important;
+}
+#autoScrollcompiler{
+    font-size: 12px !important;
+    color:white;
+    margin-top:5px;
+    padding-left: 5px !important;
+    height: 2% !important;
+  }
+  .optionscompiler{
+    margin-top:7px !important;
+    margin-left: -2% !important;
+    /* height: 230%; */
+    height: 63% !important;
+    width: 90px !important;
+    font-size: 10px !important;
+  
+  }
+  .option1compiler{
+    margin-top: 7px !important;
+    margin-left: 2% !important;
+    /* height: 230%; */
+    height: 67% !important;
+    width: 86px !important;
+    font-size: 10px !important;
+    
+  }
+  #btnClearcompiler{
+    background-color: #F89E12;
+    border-radius: 8px;
+    font-size: 8.5px !important;
+    width: 14% !important;
+    padding: 2px;
+    color: #070606;
+    margin-left: 80% !important;
+    font-weight: bolder;
+    margin-top:-27px !important;
+    height:17px;
+  
+  }
+  #liveViewcompiler{
+    padding: 4px !important;
+    padding-left: 10px;
+    height:30px;
+    border:1px solid black ;
+    color:white;
+    font-size: 12px !important;
+
+  }
+  #Imageecompiler{
+    height: 167px !important;
+    width: 100%;
+    margin-top: -2.5% !important;
+  }
+  .footerBcompiler{
+    padding: 5px;
+    color:white;
+    font-size: small !important;
+    height:10% !important;  
+
+  }
+  #outputtcompiler{
+    color:'white';
+    margin-left: -15px;
+    margin-top: -4px;
+  }
+  .footercompiler{
+  width:100%;
+  margin-top:0.1% !important;
+  background-color: #1e1e1e;
+
+  }
+  .footerAcompiler{
+    border: 1px solid grey;
+    color: white;
+    padding: 6px;
+    font-size:large !important;
+  }
+  .twoMainscompiler{
+  background-color: #1e1e1e;
+  }
+
+
+
+
+
+
+  }
+
+

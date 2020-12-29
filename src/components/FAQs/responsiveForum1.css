@@ -1,0 +1,747 @@
+ /* Small devices (landscape phones, 576px and up) */
+/* 
+ td{
+
+  text-align: center;
+  vertical-align: middle;
+ } */
+ @media (max-device-width:576px){ 
+   
+    body{
+        background-color: #A5422D;
+    }
+    #bgImageforumPage1{
+        height: 1055px;
+        width: 100%
+    }
+    
+.top-leftforumPage1 {
+    position: absolute;
+    top: 18px;
+    left: 10%;
+    font-size: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  
+  .top-left1forumPage1 {
+    position: absolute;
+    left: 40%;
+    font-size: 22px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  }
+  .top-left2forumPage1 {
+    position: absolute;
+    left: 48%;
+    font-size: 22px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  }
+
+   .top-left3forumPage1 {
+    position: absolute;
+    left: 58%;
+    font-size: 22px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left4forumPage1 {
+    position: absolute;
+    left: 67%;
+    font-size: 22px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left5forumPage1 {
+    position: absolute;
+    left: 78%;
+    font-size: 22px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left6forumPage1 {
+    position: absolute;
+    top: 18px;
+    left: 26%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+  } 
+    #btnlogoutforumPage1{
+        left: 90%;
+        padding: 2px;
+        width:65px;
+        font-size:15px;
+        top:28px;
+        border-radius: 15px;
+        color: black;
+        background-color: #F89E12;
+
+    }
+    #faqTableforumPage1{
+        position: absolute;
+        top: 20%;
+        left: 9%;
+        padding: 5px;
+        height:700px;
+        width:83%;
+        /* background-color: #1e1e1e; */
+    }
+    thead{
+        font-size: 18px;
+        font-weight: normal;
+    }
+    tbody{
+      height:250px;
+    }
+    #td2aforumPage1{
+      font-size:18px;
+    }
+    #td2bforumPage1{
+      font-size:18px;
+    }
+    #td2cforumPage1{
+      font-size:18px;
+    
+    }
+    #td2dforumPage1{
+      font-size:18px;
+    
+    }
+    #td2eforumPage1{
+      font-size:18px;
+    
+    }
+    .pTagforumPage1{
+      font-size:16px;
+    }
+    #td3aforumPage1{
+      font-size:17px;
+    }
+    #td3bforumPage1{
+      font-size:17px;
+    }
+    #td3cforumPage1{
+      font-size:17px;
+    
+    }
+    #td3dforumPage1{
+      font-size:17px;
+    
+    }
+    #td3eforumPage1{
+      font-size:17px;
+    
+    }
+        
+    #td4aforumPage1{
+      font-size:17px;
+    }
+    #td4bforumPage1{
+      font-size:17px;
+    }
+    #td4cforumPage1{
+      font-size:17px;
+
+    }
+    #td4dforumPage1{
+      font-size:17px;
+
+    }
+    #td4eforumPage1{
+      font-size:17px;
+    }
+    #td5aforumPage1{
+      font-size:17px;
+    }
+    #td5bforumPage1{
+      font-size:17px;
+    }
+    #td5cforumPage1{
+      font-size:17px;
+
+    }
+    #td5dforumPage1{
+      font-size:17px;
+
+    }
+    #td5eforumPage1{
+      font-size:17px;
+    }
+    #startFooterpartforumPage1{
+      color: white;
+      font-size: large;
+  }
+  #middleFooterpartforumPage1{
+      color: white;
+      font-size: x-large;
+      padding-left: 15%; 
+  }
+
+
+
+
+
+ }
+
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-device-width: 768px) and (max-device-width:960px) {
+    body{
+        background-color: blue;
+    }
+    #bgImageforumPage1{
+      height: 910px;
+      width: 100%
+  }
+  
+.top-leftforumPage1 {
+  position: absolute;
+  top: 18px;
+  left: 10%;
+  font-size: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+
+.top-left1forumPage1 {
+  position: absolute;
+  left: 40%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+}
+.top-left2forumPage1 {
+  position: absolute;
+  left: 48%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+}
+
+ .top-left3forumPage1 {
+  position: absolute;
+  left: 58%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left4forumPage1 {
+  position: absolute;
+  left: 67%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left5forumPage1 {
+  position: absolute;
+  left: 78%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left6forumPage1 {
+  position: absolute;
+  top: 18px;
+  left: 26%;
+  font-size: 24px;
+  color: white;
+  font-family: sans-serif
+} 
+  #btnlogoutforumPage1{
+      left: 90%;
+      padding: 2px;
+      width:65px;
+      font-size:15px;
+      top:28px;
+      border-radius: 15px;
+      color: black;
+      background-color: #F89E12;
+
+  }
+  #faqTableforumPage1{
+      position: absolute;
+      top: 22%;
+      left: 9%;
+      padding: 5px;
+      height:700px;
+      width:83%;
+      /* background-color: #1e1e1e; */
+  }
+  thead{
+      font-size: 18px;
+      font-weight: normal;
+  }
+  tbody{
+    height:250px;
+  }
+  
+  #td2aforumPage1{
+    font-size:18px;
+  }
+  #td2bforumPage1{
+    font-size:18px;
+  }
+  #td2cforumPage1{
+    font-size:18px;
+  
+  }
+  #td2dforumPage1{
+    font-size:18px;
+  
+  }
+  #td2eforumPage1{
+    font-size:18px;
+  
+  }
+  .pTagforumPage1{
+    font-size:16px;
+  }
+  #td3aforumPage1{
+    font-size:17px;
+  }
+  #td3bforumPage1 {
+    font-size:17px;
+  }
+  #td3cforumPage1{
+    font-size:17px;
+  
+  }
+  #td3dforumPage1{
+    font-size:17px;
+  
+  }
+  #td3eforumPage1{
+    font-size:17px;
+  
+  }
+      
+  #td4aforumPage1{
+    font-size:17px;
+  }
+  #td4bforumPage1{
+    font-size:17px;
+  }
+  #td4cforumPage1{
+    font-size:17px;
+
+  }
+  #td4dforumPage1{
+    font-size:17px;
+
+  }
+  #td4eforumPage1{
+    font-size:17px;
+  }
+  #td5aforumPage1{
+    font-size:17px;
+  }
+  #td5bforumPage1{
+    font-size:17px;
+  }
+  #td5cforumPage1{
+    font-size:17px;
+
+  }
+  #td5dforumPage1{
+    font-size:17px;
+
+  }
+  #td5eforumPage1{
+    font-size:17px;
+  }
+  #startFooterpartforumPage1{
+    color: white;
+    font-size: large;
+}
+#middleFooterpartforumPage1{
+    color: white;
+    font-size: x-large;
+    padding-left: 15%; 
+}
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width:  62em) and (max-device-width:74em) {
+  
+ td{
+
+  text-align: center;
+  vertical-align: middle;
+ }  
+    body{
+        background-color: pink;
+    }
+    #bgImageforumPage1{
+      height: 740px;
+      width: 100%
+  }
+  
+.top-leftforumPage1 {
+  position: absolute;
+  top: 18px;
+  left: 10%;
+  font-size: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+
+.top-left1forumPage1 {
+  position: absolute;
+  left: 40%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+}
+.top-left2forumPage1 {
+  position: absolute;
+  left: 48%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+}
+
+ .top-left3forumPage1 {
+  position: absolute;
+  left: 58%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left4forumPage1 {
+  position: absolute;
+  left: 67%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left5forumPage1 {
+  position: absolute;
+  left: 78%;
+  font-size: 22px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left6forumPage1{
+  position: absolute;
+  top: 18px;
+  left: 26%;
+  font-size: 24px;
+  color: white;
+  font-family: sans-serif
+} 
+  #btnlogoutforumPage1{
+      left: 90%;
+      padding: 2px;
+      width:65px;
+      font-size:15px;
+      top:28px;
+      border-radius: 15px;
+      color: black;
+      background-color: #F89E12;
+
+  }
+  #faqTableforumPage1{
+      position: absolute;
+      top: 15%;
+      left: 9%;
+      padding: 5px;
+      height:700px;
+      width:83%;
+      /* background-color: #1e1e1e; */
+  }
+  thead{
+      font-size: 18px;
+      font-weight: normal;
+  }
+  tbody{
+    height:250px;
+  }
+  #td2aforumPage1{
+    font-size:18px;
+  }
+  #td2bforumPage1{
+    font-size:18px;
+  }
+  #td2cforumPage1{
+    font-size:18px;
+  
+  }
+  #td2dforumPage1{
+    font-size:18px;
+  
+  }
+  #td2eforumPage1{
+    font-size:18px;
+  
+  }
+  .pTagforumPage1{
+    font-size:16px;
+  }
+  #td3aforumPage1{
+    font-size:17px;
+  }
+  #td3bforumPage1{
+    font-size:17px;
+  }
+  #td3cforumPage1{
+    font-size:17px;
+  
+  }
+  #td3dforumPage1{
+    font-size:17px;
+  
+  }
+  #td3eforumPage1{
+    font-size:17px;
+  
+  }
+      
+  #td4aforumPage1{
+    font-size:17px;
+  }
+  #td4bforumPage1{
+    font-size:17px;
+  }
+  #td4cforumPage1{
+    font-size:17px;
+
+  }
+  #td4dforumPage1{
+    font-size:17px;
+
+  }
+  #td4eforumPage1{
+    font-size:17px;
+  }
+  #td5aforumPage1{
+    font-size:17px;
+  }
+  #td5bforumPage1{
+    font-size:17px;
+  }
+  #td5cforumPage1{
+    font-size:17px;
+
+  }
+  #td5dforumPage1{
+    font-size:17px;
+
+  }
+  #td5eforumPage1{
+    font-size:17px;
+  }
+  #startFooterpartforumPage1{
+    color: white;
+    font-size: large;
+}
+#middleFooterpartforumPage1{
+    color: white;
+    font-size: x-large;
+    padding-left: 15%; 
+}
+
+
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 75em )  {
+    body{
+        background-color: royalblue;
+    }
+    
+    #bgImageforumPage1{
+      height: 599px;
+      width: 100%
+  }
+  
+.top-leftforumPage1 {
+  position: absolute;
+  top: 18px;
+  left: 10%;
+  font-size: 24px;
+  color: white;
+  font-family: sans-serif
+} 
+
+.top-left1forumPage1 {
+  position: absolute;
+  left: 48%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+}
+.top-left2forumPage1 {
+  position: absolute;
+  left: 55%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+}
+
+ .top-left3forumPage1 {
+  position: absolute;
+  left: 62%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left4forumPage1 {
+  position: absolute;
+  left: 69%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left5forumPage1 {
+  position: absolute;
+  left: 76%;
+  font-size: 14px;
+  top: 27px;
+  color: white;
+  font-family: sans-serif
+} 
+.top-left6forumPage1 {
+  position: absolute;
+  top: 18px;
+  left: 83%;
+  font-size: 14px;
+  color: white;
+  font-family: sans-serif
+} 
+  #btnlogoutforumPage1{
+      left: 83%;
+      padding: 2px;
+      width:5%;
+      font-size:14px;
+      top:25px;
+      border-radius: 15px;
+      color: black;
+      background-color: #F89E12;
+
+  }
+  #faqTableforumPage1{
+      position: absolute;
+      top: 10 s;
+      left: 13%;
+      padding: 5px;
+      height:300px;
+      width:75%;
+      /* background-color: #1e1e1e; */
+  }
+  thead{
+      font-size: 15px;
+      font-weight: normal;
+  }
+  /* tbody{
+    height:200px;
+  } */
+  #td2aforumPage1{
+    font-size:12px;
+  }
+  #td2bforumPage1{
+    font-size:12px;
+  }
+  #td2cforumPage1{
+    font-size:12px;
+  
+  }
+  #td2dforumPage1{
+    font-size:12px;
+  
+  }
+  #td2eforumPage1{
+    font-size:12px;
+  
+  }
+  .pTagforumPage1{
+    font-size:11px;
+  }
+  #td3aforumPage1{
+    font-size:11px;
+  }
+  #td3bforumPage1{
+    font-size:11px;
+  }
+  #td3cforumPage1{
+    font-size:11px;
+  
+  }
+  #td3dforumPage1{
+    font-size:11px;
+  
+  }
+  #td3eforumPage1{
+    font-size:11px;
+  
+  }
+      
+  #td4aforumPage1{
+    font-size:12px;
+  }
+  #td4bforumPage1{
+    font-size:12px;
+  }
+  #td4cforumPage1{
+    font-size:12px;
+
+  }
+  #td4dforumPage1{
+    font-size:12px;
+
+  }
+  #td4eforumPage1{
+    font-size:12px;
+  }
+  #td5aforumPage1{
+    font-size:12px;
+  }
+  #td5bforumPage1{
+    font-size:12px;
+  }
+  #td5cforumPage1{
+    font-size:12px;
+
+  }
+  #td5dforumPage1{
+    font-size:12px;
+
+  }
+  #td5eforumPage1{
+    font-size:12px;
+  }
+  #startFooterpartforumPage1{
+    color: white;
+    font-size: medium;
+}
+#middleFooterpartforumPage1{
+    color: white;
+    font-size: medium;
+    padding-left: 15%; 
+}
+
+}
+

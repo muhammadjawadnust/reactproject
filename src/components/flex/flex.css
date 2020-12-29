@@ -1,0 +1,71 @@
+.flexbox-container{
+    display: flex;
+    /* justify-content: center; */
+    /* flex-wrap: wrap-reverse; */
+}
+.flexbox-item-1{
+    background-image: url("../Images/compiler.jpg");
+    /* width:50%;
+    height:50%; */
+    /* border:1px solid black; */
+        /* margin:2px; */
+}
+#vap1{
+    color: #F89E12;
+    margin-top: 16px;
+    margin-left: 48%;
+}
+.mr-auto{
+    padding-left: 8%;
+    margin-top: 5px;
+}
+.flexbox-item-2{
+    background-color: aqua;
+    width:70%;
+    height:400px;
+    border: 1px solid black;
+    /* width:50%;
+    height:50%; */
+    /* border:1px solid black; */
+        /* margin:2px; */
+}
+.flexbox-item-3{
+    background-color: #F89E12;
+    width:30%;
+    border: 1px solid black;
+    height:400px;
+     /* width:50%;
+    height:50%; */
+    /* border:1px solid black; */
+        /* margin:2px; */
+}
+.flexbox-item-2-inner{
+    color:white;
+    width: 13%;
+    padding: 3px;
+    height: 30px;
+    background-color: #1e1e1e;
+}
+.dDown{
+    margin-top: -7px;
+   /*margin-left: 60%; */
+ 
+ }
+ #dDmenu{
+   height: 104%;
+ }
+ select {
+   background-color: #1e1e1e;
+   color:white
+ }
+ .portA{
+   /* resize: none; */
+   color:white;
+   height:20px;
+   width:50px;
+   text-align: center;
+   margin-top: 4px;
+   background-color: #1e1e1e;
+ 
+ }
+ 

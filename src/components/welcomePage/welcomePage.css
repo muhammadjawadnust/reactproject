@@ -1,0 +1,51 @@
+
+body{
+    /* background-color: #1E1E1E; */
+    font-family: sans-serif;
+}
+.top-left {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+  }
+  .top-right{
+    position: absolute;
+    top: 18px;
+    left: 84%;
+    font-size: 24px;
+  }
+  #arrowIcon{
+      color:white;
+      border-radius: 50%;
+      border: 1px solid #F89E12;
+      padding: 2px;
+  }
+.centered {
+    position: absolute;
+    top: 30%;
+    font-size: 24px;
+    color:white;
+}
+#weight{
+    font-weight: lighter;
+}
+#rightArrow{
+    font-size: small;
+    border-radius: 50%;
+    background-color: #F89E12;
+    border: 1px solid #F89E12;
+    padding: 2px;
+    
+}
+.vap{
+    color: white;
+    font-size: 16px;
+    margin-top:-70px;
+    text-align: center;
+    
+}
+
+

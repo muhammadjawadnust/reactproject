@@ -1,0 +1,137 @@
+body{
+  background-color: #1e1e1e;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.navbar-toggler .icon-bar {
+  margin: 7px;
+  display: block;
+  width: 22px;
+  height: 1px;
+  background-color: #cccccc;
+  border-radius: 1px;
+}
+#nav{
+  background-color: #3d3d3d ;
+  padding-top: 10px;
+  font-family: sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+h5 {
+	padding-left: 10px;
+  color: white;
+  font-size: 10.4px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#tabs{
+  background-color:#3d3d3d ;
+  align-items: right;
+  padding-left: 10px;
+  padding-top: 0px;
+  border: 1px solid black;
+}
+
+#iconss{
+  color: #f89e12;
+  padding:4px ;
+  font-size: medium;
+
+}
+#div2{
+  margin-left: 34%;
+  margin-top: 4px;
+}
+.div3{
+  background-color: #1e1e1e;  
+}
+.output h3 {
+	color:black;
+	padding: 10px;
+	border: 1px solid black;
+}
+#icons{
+  width: 115px ;
+  height:15px ;
+  font-size: 9px;
+  border-spacing: 10px; 
+}
+.a1{
+  background-color: #1e1e1e;
+  align-items: right;  
+  font-size: small;
+  padding: 3px;
+  margin-left: 15%;
+  margin-top: 15px;
+
+}
+.In{
+  width: 75%;
+  margin-left: 2%;
+}
+.Tbtn{
+  padding: 10px;
+}
+#btn{
+  background-color: #F89E12;
+  border-radius: 20px;
+  font-size: 8.4px;
+  width: 12%;
+  height:20px;
+  color: #070606;
+  margin-left: 4%;
+  margin-bottom: 1%;
+}
+.Ulist{
+  font-size: 10px;
+  color: #FFFFFF;
+  list-style-type: none;  
+  padding: 10px;
+}
+.div1{
+  padding: 5px;
+  text-align: right;
+  margin-right: 4%;
+  margin:0 7px 0 0;
+}
+.div2{
+  background-color: #333;
+  color: white;
+  padding: 8px;
+}
+#Soptions{
+  width: 109px ;
+  height:15px ;
+  font-size: 9px;
+}
+.div3{
+  background-color:#1E1E1E;
+  color:#FFFFFF;
+  padding: 10px;
+ }
+ .div4{
+   background-color: #1e1e1e;
+   padding: 10px;
+ }
+ .twoMains{
+  background-color: #070606;
+  color: #FFFFFF;
+}
+#outputt{
+  background-color:#1E1E1E ;
+}

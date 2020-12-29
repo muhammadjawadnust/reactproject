@@ -1,0 +1,237 @@
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-device-width:576px){
+    body{
+        /* background-color: aqua; */
+    }
+    
+    #bgImageaboutus{
+        height: 1100px;
+        width: 100%;
+      }
+    .top-leftaboutus {
+        position: absolute;
+        top: 24px;
+        left: 10%;
+        font-size: 28px;
+        color: white;
+        font-family: sans-serif
+    }
+    .top-left1aboutus {
+    position: absolute;
+    left: 40%;
+    font-size: 26px;
+    top: 26px; 
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left2aboutus {
+    position: absolute;
+    left: 50%;
+    font-size: 26px;
+    top: 26px; 
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left3aboutus {
+    position: absolute;
+    left: 60%;
+    font-size: 26px;
+    top: 26px;
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left4aboutus {
+    position: absolute;
+    left: 70%;
+    font-size: 26px;
+    top: 26px;
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left5aboutus {
+    position: absolute;
+    left: 80%;
+    font-size: 26px;
+    top: 26px;
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left6aboutus {
+    position: absolute;
+    top: 18px;
+    left: 26%;
+    font-size: 26px;
+    color: white;
+    font-family: sans-serif
+    }
+    #btnlogoutaboutus{
+        left: 92%;
+        padding: 2px;
+        width:72px;
+        font-size:18px;
+        top:28px;
+        border-radius: 15px;
+        color: black;
+        font-weight: bold;
+        background-color: #F89E12;
+    }
+        
+    #hr1aboutus{
+        /* color: white;
+        background-color: white; */
+        height: 1px;
+        top: 98%;
+    }
+    .top-centeraboutus {
+        position: absolute;
+        text-align: center;
+        font-weight: bold;
+        top: 99px;
+        left: 38%;
+        font-size: 45px;
+        color: #feb33e;
+        font-family: sans-serif
+      }
+    #hr2aboutus{
+        /* color: white;
+        background-color: white; */
+        height: 1px;
+        top: '45px'
+    }
+    #aboutusRow{
+        /* margin-top: -50%; */
+    }
+    #section1aboutus{
+        margin-top: -62%;
+        width: 60%;
+        margin-left: 15%;
+        position:absolute;
+      }
+      .columnaboutus {
+        float: left;
+        width: 125%;
+        padding: 10px;
+        height: 380px; 
+       
+    }
+
+
+    #startFooterpartaboutus{
+        color: white;
+        font-size: 15px;
+      }
+      #middleFooterpartaboutus{
+        color: white;
+        font-size: 12px;
+        padding-left: 15%;
+      
+      }
+      .footeraboutus{
+          margin-top: 10%;
+  
+    }
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-device-width: 768px) and (max-device-width:960px) {
+    body{
+        background-color: aquamarine;
+    }
+    #bgImage{
+        height: 885px;
+        width: 100%;
+      }
+    .top-left {
+        position: absolute;
+        top: 18px;
+        left: 16%;
+        font-size: 26px;
+        color: white;
+        font-family: sans-serif
+    }
+    .top-left1 {
+    position: absolute;
+    left: 48%;
+    font-size: 14px;
+    top: 27px; 
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left2 {
+    position: absolute;
+    left: 54%;
+    font-size: 14px;
+    top: 27px; 
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left3 {
+    position: absolute;
+    left: 60%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left4 {
+    position: absolute;
+    left: 66%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left5 {
+    position: absolute;
+    left: 72%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif;
+    }
+    .top-left6 {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+    }
+
+    #btnlogout{
+        left: 78%;
+        padding: 2px;
+        width:65px;
+        font-size:14px;
+        top:22px;
+        border-radius: 15px;
+        color: black;
+        background-color: #F89E12;
+    }
+    
+   
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width:  62em) and (max-device-width:74em) {
+    body{
+        background-color: cadetblue;
+        
+    }
+
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */   /* 75em --> 1200px and more than 1200pixels */
+@media (min-width: 75em )  {
+    body{
+        background-color: cornflowerblue;
+    }
+
+
+}

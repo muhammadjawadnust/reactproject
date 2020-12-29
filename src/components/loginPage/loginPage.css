@@ -1,0 +1,116 @@
+.top-leftlogin {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+}
+#vapBglogin{
+    height: 656.5px;
+    width: 100%;
+}
+.containerlogin{
+    background-color: white;
+    position: absolute;
+}
+
+#closeIconlogin{
+    color:black;
+    font-size: x-large;
+    float: right;
+}
+
+#examplelogin {
+   position: absolute;
+   top: 15%;
+   left: 38%; 
+   padding: 5px;
+   background-color: white;
+   width: 24%;
+   height: 70%;
+
+}
+.examplelogin {
+    position: absolute;
+    text-align: center;
+    top: 18px;
+    left: 28%;
+    font-size: 22px;
+    color:black;
+    font-family: sans-serif;
+    text-size-adjust: auto;
+}
+.wlcomelogin{
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20%;
+    font-size: medium;
+}
+.p1login{
+    text-align: center;
+}
+.p2testlogin{
+    text-align: left;
+    padding-left: 20px;
+    font-size: large;
+}
+.p3login{
+    text-align: center;
+}
+#div1login{
+    border:1px solid #f89e12;
+    width: 90%;
+    margin-left: 5%;
+} 
+#div2login{
+    width: 90%;
+    margin-left: 107px;
+}
+/* .p2testlogin{
+    font-size: large;
+} */
+#pwdlogin{
+    border:1px solid #f89e12;
+    margin-left: -32%;
+}
+#eyePwdlogin{
+    font-size: medium;
+    float: right;
+    margin-top: -28px;
+    margin-right: 45% !important;
+}
+.form-controllogin{
+    padding: 6%;
+    margin-left: 20%;
+    
+} 
+.form-grouplogin{
+    margin-right: 50%;
+}
+input,
+input::-webkit-input-placeholder {
+    font-size: 15px;
+    line-height: 5;
+}
+.btnlogin{
+    background-color: #ffb33a;
+    padding: 5px;
+    width: 60%;
+    border:1px solid #f89e12;
+    color:black;
+}
+#rightArrowlogin{
+    margin-top:2px;
+}
+.frm2login{
+    padding-left: 32%;
+    pointer-events: none;   
+}
+.vaplogin{
+    color: white;
+    font-size: 16px;
+    margin-top:-70px;
+    text-align: center;
+    
+}
